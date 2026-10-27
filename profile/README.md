@@ -76,7 +76,7 @@ the `ghul` command: builds the WebAssembly and native targets without the .NET S
 ### [ghul-vsce](https://github.com/ghul-lang/ghul-vsce)
 
 [![CI](https://img.shields.io/github/actions/workflow/status/ghul-lang/ghul-vsce/CICD.yaml?branch=main)](https://github.com/ghul-lang/ghul-vsce/actions/workflows/CICD.yaml?query=branch%3Amain)
-[![Visual Studio Marketplace](https://badgen.net/vs-marketplace/v/degory.ghul)](https://marketplace.visualstudio.com/items?itemName=degory.ghul)
+[![Visual Studio Marketplace](https://img.shields.io/github/v/release/ghul-lang/ghul-vsce?label=Visual%20Studio%20Marketplace)](https://marketplace.visualstudio.com/items?itemName=degory.ghul)
 [![Open VSX](https://img.shields.io/open-vsx/v/degory/ghul)](https://open-vsx.org/extension/degory/ghul)
 [![Release](https://img.shields.io/github/v/release/ghul-lang/ghul-vsce?label=release)](https://github.com/ghul-lang/ghul-vsce/releases)
 [![License](https://img.shields.io/github/license/ghul-lang/ghul-vsce)](https://github.com/ghul-lang/ghul-vsce/blob/main/LICENSE)
