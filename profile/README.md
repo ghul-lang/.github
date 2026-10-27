@@ -16,7 +16,7 @@ Issues for every repository here are tracked in [ghul](https://github.com/ghul-l
 
 ### [ghul](https://github.com/ghul-lang/ghul)
 
-[![CI](https://img.shields.io/github/actions/workflow/status/ghul-lang/ghul/ci.yml?branch=main)](https://github.com/ghul-lang/ghul/actions/workflows/ci.yml?query=branch%3Amain)
+[![CI](https://img.shields.io/github/actions/workflow/status/ghul-lang/ghul/ci.yml?branch=main&event=push)](https://github.com/ghul-lang/ghul/actions/workflows/ci.yml?query=branch%3Amain+event%3Apush)
 [![NuGet version (ghul.compiler)](https://img.shields.io/nuget/v/ghul.compiler.svg)](https://www.nuget.org/packages/ghul.compiler/)
 [![Release](https://img.shields.io/github/v/release/ghul-lang/ghul?label=release)](https://github.com/ghul-lang/ghul/releases)
 [![Release Date](https://img.shields.io/github/release-date/ghul-lang/ghul)](https://github.com/ghul-lang/ghul/releases)
@@ -28,7 +28,7 @@ the compiler: about 200,000 lines of ghūl, compiling itself on every merge, wit
 
 ### [ghul-runtime](https://github.com/ghul-lang/ghul-runtime)
 
-[![CI](https://img.shields.io/github/actions/workflow/status/ghul-lang/ghul-runtime/cicd.yml?branch=main)](https://github.com/ghul-lang/ghul-runtime/actions/workflows/cicd.yml?query=branch%3Amain)
+[![CI](https://img.shields.io/github/actions/workflow/status/ghul-lang/ghul-runtime/cicd.yml?branch=main&event=push)](https://github.com/ghul-lang/ghul-runtime/actions/workflows/cicd.yml?query=branch%3Amain+event%3Apush)
 [![NuGet version (ghul.runtime)](https://img.shields.io/nuget/v/ghul.runtime.svg)](https://www.nuget.org/packages/ghul.runtime/)
 [![Release](https://img.shields.io/github/v/release/ghul-lang/ghul-runtime?label=release)](https://github.com/ghul-lang/ghul-runtime/releases)
 [![Release Date](https://img.shields.io/github/release-date/ghul-lang/ghul-runtime)](https://github.com/ghul-lang/ghul-runtime/releases)
@@ -39,7 +39,7 @@ the runtime library every ghūl program builds against, on every target: the int
 
 ### [ghul-core](https://github.com/ghul-lang/ghul-core)
 
-[![CI](https://img.shields.io/github/actions/workflow/status/ghul-lang/ghul-core/cicd.yml?branch=main)](https://github.com/ghul-lang/ghul-core/actions/workflows/cicd.yml?query=branch%3Amain)
+[![CI](https://img.shields.io/github/actions/workflow/status/ghul-lang/ghul-core/cicd.yml?branch=main&event=push)](https://github.com/ghul-lang/ghul-core/actions/workflows/cicd.yml?query=branch%3Amain+event%3Apush)
 [![Release](https://img.shields.io/github/v/release/ghul-lang/ghul-core?label=release)](https://github.com/ghul-lang/ghul-core/releases)
 [![License](https://img.shields.io/github/license/ghul-lang/ghul-core)](https://github.com/ghul-lang/ghul-core/blob/main/LICENSE)
 [![ghūl](https://img.shields.io/badge/gh%C5%ABl-100%25!-information)](https://ghul.dev)
@@ -48,7 +48,7 @@ the base class library for the WebAssembly and native targets: strings, collecti
 
 ### [ghul-llvm](https://github.com/ghul-lang/ghul-llvm)
 
-[![CI](https://img.shields.io/github/actions/workflow/status/ghul-lang/ghul-llvm/ci.yml?branch=main)](https://github.com/ghul-lang/ghul-llvm/actions/workflows/ci.yml?query=branch%3Amain)
+[![CI](https://img.shields.io/github/actions/workflow/status/ghul-lang/ghul-llvm/ci.yml?branch=main&event=push)](https://github.com/ghul-lang/ghul-llvm/actions/workflows/ci.yml?query=branch%3Amain+event%3Apush)
 [![Release](https://img.shields.io/github/v/release/ghul-lang/ghul-llvm?label=release)](https://github.com/ghul-lang/ghul-llvm/releases)
 [![License](https://img.shields.io/github/license/ghul-lang/ghul-llvm)](https://github.com/ghul-lang/ghul-llvm/blob/main/LICENSE)
 
@@ -56,7 +56,7 @@ the tool the compiler runs to turn the LLVM IR it writes into a native executabl
 
 ### [ghul-wasmtime](https://github.com/ghul-lang/ghul-wasmtime)
 
-[![CI](https://img.shields.io/github/actions/workflow/status/ghul-lang/ghul-wasmtime/ci.yml?branch=main)](https://github.com/ghul-lang/ghul-wasmtime/actions/workflows/ci.yml?query=branch%3Amain)
+[![CI](https://img.shields.io/github/actions/workflow/status/ghul-lang/ghul-wasmtime/ci.yml?branch=main&event=push)](https://github.com/ghul-lang/ghul-wasmtime/actions/workflows/ci.yml?query=branch%3Amain+event%3Apush)
 [![Release](https://img.shields.io/github/v/release/ghul-lang/ghul-wasmtime?label=release)](https://github.com/ghul-lang/ghul-wasmtime/releases)
 
 a standalone [wasmtime](https://wasmtime.dev) host that runs a ghūl program compiled for WebAssembly without Node.js
@@ -65,7 +65,7 @@ a standalone [wasmtime](https://wasmtime.dev) host that runs a ghūl program com
 
 ### [ghul-cli](https://github.com/ghul-lang/ghul-cli)
 
-[![CI](https://img.shields.io/github/actions/workflow/status/ghul-lang/ghul-cli/ci.yml?branch=main)](https://github.com/ghul-lang/ghul-cli/actions/workflows/ci.yml?query=branch%3Amain)
+[![CI](https://img.shields.io/github/actions/workflow/status/ghul-lang/ghul-cli/ci.yml?branch=main&event=push)](https://github.com/ghul-lang/ghul-cli/actions/workflows/ci.yml?query=branch%3Amain+event%3Apush)
 [![NuGet version (ghul.cli)](https://img.shields.io/nuget/v/ghul.cli.svg)](https://www.nuget.org/packages/ghul.cli/)
 [![Release](https://img.shields.io/github/v/release/ghul-lang/ghul-cli?label=release)](https://github.com/ghul-lang/ghul-cli/releases)
 [![License](https://img.shields.io/github/license/ghul-lang/ghul-cli)](https://github.com/ghul-lang/ghul-cli/blob/main/LICENSE)
@@ -75,7 +75,7 @@ the `ghul` command: builds the WebAssembly and native targets without the .NET S
 
 ### [ghul-vsce](https://github.com/ghul-lang/ghul-vsce)
 
-[![CI](https://img.shields.io/github/actions/workflow/status/ghul-lang/ghul-vsce/CICD.yaml?branch=main)](https://github.com/ghul-lang/ghul-vsce/actions/workflows/CICD.yaml?query=branch%3Amain)
+[![CI](https://img.shields.io/github/actions/workflow/status/ghul-lang/ghul-vsce/CICD.yaml?branch=main&event=push)](https://github.com/ghul-lang/ghul-vsce/actions/workflows/CICD.yaml?query=branch%3Amain+event%3Apush)
 [![Visual Studio Marketplace](https://img.shields.io/github/v/release/ghul-lang/ghul-vsce?label=Visual%20Studio%20Marketplace)](https://marketplace.visualstudio.com/items?itemName=degory.ghul)
 [![Open VSX](https://img.shields.io/open-vsx/v/degory/ghul)](https://open-vsx.org/extension/degory/ghul)
 [![Release](https://img.shields.io/github/v/release/ghul-lang/ghul-vsce?label=release)](https://github.com/ghul-lang/ghul-vsce/releases)
@@ -86,7 +86,7 @@ the Visual Studio Code extension, and the language server it is built on, which 
 
 ### [ghul-debug](https://github.com/ghul-lang/ghul-debug)
 
-[![CI](https://img.shields.io/github/actions/workflow/status/ghul-lang/ghul-debug/CICD.yaml?branch=main)](https://github.com/ghul-lang/ghul-debug/actions/workflows/CICD.yaml?query=branch%3Amain)
+[![CI](https://img.shields.io/github/actions/workflow/status/ghul-lang/ghul-debug/CICD.yaml?branch=main&event=push)](https://github.com/ghul-lang/ghul-debug/actions/workflows/CICD.yaml?query=branch%3Amain+event%3Apush)
 [![Release](https://img.shields.io/github/v/release/ghul-lang/ghul-debug?label=release)](https://github.com/ghul-lang/ghul-debug/releases)
 [![License](https://img.shields.io/github/license/ghul-lang/ghul-debug)](https://github.com/ghul-lang/ghul-debug/blob/main/LICENSE)
 [![ghūl](https://img.shields.io/badge/gh%C5%ABl-100%25!-information)](https://ghul.dev)
@@ -95,7 +95,7 @@ the debug adapter, so ghūl programs can be debugged from the editor
 
 ### [ghul-mcp](https://github.com/ghul-lang/ghul-mcp)
 
-[![CI](https://img.shields.io/github/actions/workflow/status/ghul-lang/ghul-mcp/ci.yml?branch=main)](https://github.com/ghul-lang/ghul-mcp/actions/workflows/ci.yml?query=branch%3Amain)
+[![CI](https://img.shields.io/github/actions/workflow/status/ghul-lang/ghul-mcp/ci.yml?branch=main&event=push)](https://github.com/ghul-lang/ghul-mcp/actions/workflows/ci.yml?query=branch%3Amain+event%3Apush)
 [![NuGet version (ghul.mcp)](https://img.shields.io/nuget/v/ghul.mcp.svg)](https://www.nuget.org/packages/ghul.mcp/)
 [![Release](https://img.shields.io/github/v/release/ghul-lang/ghul-mcp?label=release)](https://github.com/ghul-lang/ghul-mcp/releases)
 [![License](https://img.shields.io/github/license/ghul-lang/ghul-mcp)](https://github.com/ghul-lang/ghul-mcp/blob/main/LICENSE)
@@ -105,7 +105,7 @@ an MCP server that answers questions about ghūl code from the compiler's analys
 
 ### [ghul-test](https://github.com/ghul-lang/ghul-test)
 
-[![CI](https://img.shields.io/github/actions/workflow/status/ghul-lang/ghul-test/cicd.yml?branch=main)](https://github.com/ghul-lang/ghul-test/actions/workflows/cicd.yml?query=branch%3Amain)
+[![CI](https://img.shields.io/github/actions/workflow/status/ghul-lang/ghul-test/cicd.yml?branch=main&event=push)](https://github.com/ghul-lang/ghul-test/actions/workflows/cicd.yml?query=branch%3Amain+event%3Apush)
 [![NuGet version (ghul.test)](https://img.shields.io/nuget/v/ghul.test.svg)](https://www.nuget.org/packages/ghul.test/)
 [![Release](https://img.shields.io/github/v/release/ghul-lang/ghul-test?label=release)](https://github.com/ghul-lang/ghul-test/releases)
 [![License](https://img.shields.io/github/license/ghul-lang/ghul-test)](https://github.com/ghul-lang/ghul-test/blob/main/LICENSE)
@@ -115,7 +115,7 @@ a snapshot-based integration test runner, used by the compiler and by every repo
 
 ### [ghul-raster](https://github.com/ghul-lang/ghul-raster)
 
-[![CI](https://img.shields.io/github/actions/workflow/status/ghul-lang/ghul-raster/cicd.yml?branch=main)](https://github.com/ghul-lang/ghul-raster/actions/workflows/cicd.yml?query=branch%3Amain)
+[![CI](https://img.shields.io/github/actions/workflow/status/ghul-lang/ghul-raster/cicd.yml?branch=main&event=push)](https://github.com/ghul-lang/ghul-raster/actions/workflows/cicd.yml?query=branch%3Amain+event%3Apush)
 [![NuGet version (ghul.raster)](https://img.shields.io/nuget/v/ghul.raster.svg)](https://www.nuget.org/packages/ghul.raster/)
 [![Release](https://img.shields.io/github/v/release/ghul-lang/ghul-raster?label=release)](https://github.com/ghul-lang/ghul-raster/releases)
 [![License](https://img.shields.io/github/license/ghul-lang/ghul-raster)](https://github.com/ghul-lang/ghul-raster/blob/main/LICENSE)
@@ -125,7 +125,7 @@ draws into a PNG from ghūl, in managed code, with no native graphics library
 
 ### [ghul-templates](https://github.com/ghul-lang/ghul-templates)
 
-[![CI](https://img.shields.io/github/actions/workflow/status/ghul-lang/ghul-templates/cicd.yml?branch=main)](https://github.com/ghul-lang/ghul-templates/actions/workflows/cicd.yml?query=branch%3Amain)
+[![CI](https://img.shields.io/github/actions/workflow/status/ghul-lang/ghul-templates/cicd.yml?branch=main&event=push)](https://github.com/ghul-lang/ghul-templates/actions/workflows/cicd.yml?query=branch%3Amain+event%3Apush)
 [![NuGet version (ghul.templates)](https://img.shields.io/nuget/v/ghul.templates.svg)](https://www.nuget.org/packages/ghul.templates/)
 [![License](https://img.shields.io/github/license/ghul-lang/ghul-templates)](https://github.com/ghul-lang/ghul-templates/blob/main/LICENSE)
 
@@ -133,7 +133,7 @@ templates for `dotnet new` that create a ghūl console application or class libr
 
 ### [ghul-repository-template](https://github.com/ghul-lang/ghul-repository-template)
 
-[![CI](https://img.shields.io/github/actions/workflow/status/ghul-lang/ghul-repository-template/cicd.yml?branch=main)](https://github.com/ghul-lang/ghul-repository-template/actions/workflows/cicd.yml?query=branch%3Amain)
+[![CI](https://img.shields.io/github/actions/workflow/status/ghul-lang/ghul-repository-template/cicd.yml?branch=main&event=push)](https://github.com/ghul-lang/ghul-repository-template/actions/workflows/cicd.yml?query=branch%3Amain+event%3Apush)
 [![License](https://img.shields.io/github/license/ghul-lang/ghul-repository-template)](https://github.com/ghul-lang/ghul-repository-template/blob/main/LICENSE)
 
 a template for starting a new ghūl repository on GitHub, with a build, tests and a release workflow already in place
@@ -142,35 +142,35 @@ a template for starting a new ghūl repository on GitHub, with a build, tests an
 
 ### [ghul-dev](https://github.com/ghul-lang/ghul-dev)
 
-[![CI](https://img.shields.io/github/actions/workflow/status/ghul-lang/ghul-dev/ci.yml?branch=main)](https://github.com/ghul-lang/ghul-dev/actions/workflows/ci.yml?query=branch%3Amain)
+[![Deploy](https://img.shields.io/github/actions/workflow/status/ghul-lang/ghul-dev/deploy.yml?branch=main&event=push&label=deploy)](https://github.com/ghul-lang/ghul-dev/actions/workflows/deploy.yml?query=branch%3Amain+event%3Apush)
 [![License](https://img.shields.io/github/license/ghul-lang/ghul-dev)](https://github.com/ghul-lang/ghul-dev/blob/main/LICENSE)
 
 the [ghul.dev](https://ghul.dev) website: the language tutorial and reference, with every example compiled and run in CI
 
 ### [ghul-playground](https://github.com/ghul-lang/ghul-playground)
 
-[![CI](https://img.shields.io/github/actions/workflow/status/ghul-lang/ghul-playground/build.yml?branch=main)](https://github.com/ghul-lang/ghul-playground/actions/workflows/build.yml?query=branch%3Amain)
+[![Deploy](https://img.shields.io/github/actions/workflow/status/ghul-lang/ghul-playground/deploy.yml?branch=main&event=push&label=deploy)](https://github.com/ghul-lang/ghul-playground/actions/workflows/deploy.yml?query=branch%3Amain+event%3Apush)
 [![License](https://img.shields.io/github/license/ghul-lang/ghul-playground)](https://github.com/ghul-lang/ghul-playground/blob/main/LICENSE)
 
 the [browser playground](https://ghul.dev/playground/) and [REPL](https://ghul.dev/repl/): a Monaco editor backed by the language server, a compile service, and a WebAssembly host that runs the result in the page
 
 ### [ghul-examples](https://github.com/ghul-lang/ghul-examples)
 
-[![CI](https://img.shields.io/github/actions/workflow/status/ghul-lang/ghul-examples/ci.yml?branch=main)](https://github.com/ghul-lang/ghul-examples/actions/workflows/ci.yml?query=branch%3Amain)
+[![CI](https://img.shields.io/github/actions/workflow/status/ghul-lang/ghul-examples/ci.yml?branch=main&event=push)](https://github.com/ghul-lang/ghul-examples/actions/workflows/ci.yml?query=branch%3Amain+event%3Apush)
 [![License](https://img.shields.io/github/license/ghul-lang/ghul-examples)](https://github.com/ghul-lang/ghul-examples/blob/main/LICENSE)
 
 example programs, built and tested against every compiler release
 
 ### [ghul-rosetta-code](https://github.com/ghul-lang/ghul-rosetta-code)
 
-[![CI](https://img.shields.io/github/actions/workflow/status/ghul-lang/ghul-rosetta-code/ci.yml?branch=main)](https://github.com/ghul-lang/ghul-rosetta-code/actions/workflows/ci.yml?query=branch%3Amain)
+[![Index](https://img.shields.io/github/actions/workflow/status/ghul-lang/ghul-rosetta-code/index.yml?branch=main&event=push&label=index)](https://github.com/ghul-lang/ghul-rosetta-code/actions/workflows/index.yml?query=branch%3Amain+event%3Apush)
 [![License](https://img.shields.io/github/license/ghul-lang/ghul-rosetta-code)](https://github.com/ghul-lang/ghul-rosetta-code/blob/main/LICENSE)
 
 the ghūl solutions on [Rosetta Code](https://rosettacode.org/wiki/Category:Ghul), each a runnable project with a test that checks its output, and the tool that publishes them
 
 ### [ghul-web-api](https://github.com/ghul-lang/ghul-web-api)
 
-[![CI](https://img.shields.io/github/actions/workflow/status/ghul-lang/ghul-web-api/build-and-test.yml?branch=main)](https://github.com/ghul-lang/ghul-web-api/actions/workflows/build-and-test.yml?query=branch%3Amain)
+[![CI](https://img.shields.io/github/actions/workflow/status/ghul-lang/ghul-web-api/build-and-test.yml?branch=main&event=push)](https://github.com/ghul-lang/ghul-web-api/actions/workflows/build-and-test.yml?query=branch%3Amain+event%3Apush)
 [![License](https://img.shields.io/github/license/ghul-lang/ghul-web-api)](https://github.com/ghul-lang/ghul-web-api/blob/main/LICENSE)
 
 an [ASP.NET](https://dotnet.microsoft.com/en-us/apps/aspnet) web API written in ghūl
@@ -192,7 +192,7 @@ a test coverage report generator for ghūl projects, and the [compiler's own cov
 
 ### [ghul-dashboard](https://github.com/ghul-lang/ghul-dashboard)
 
-[![CI](https://img.shields.io/github/actions/workflow/status/ghul-lang/ghul-dashboard/build.yml?branch=main)](https://github.com/ghul-lang/ghul-dashboard/actions/workflows/build.yml?query=branch%3Amain)
+[![CI](https://img.shields.io/github/actions/workflow/status/ghul-lang/ghul-dashboard/build.yml?branch=main&event=push)](https://github.com/ghul-lang/ghul-dashboard/actions/workflows/build.yml?query=branch%3Amain+event%3Apush)
 [![ghūl](https://img.shields.io/badge/gh%C5%ABl-100%25!-information)](https://ghul.dev)
 
 a terminal dashboard for a ghūl development machine: test runs in progress, and open pull requests with their CI and review state
